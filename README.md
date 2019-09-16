@@ -1,3 +1,8 @@
+# Team Members
+
+## David Adewoyin 💁🏾‍♂️
+## Bienvenido Rodriguez 🤓
+
 # Boilermaker
 
 _Good things come in pairs_
